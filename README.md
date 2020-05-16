@@ -11,4 +11,5 @@ Hi, You can use this repo to search and use Ahangify.com API... 😊😉
 1) At first go to ahangify.com and sign up 
 2) Edit login.php file and and set your username and password in it
 3) After all please open login.php in your browser to create prerequisites
-4) Okey, Done. You need to cronjob the login.php file to 24 hours.
+4) Okey, Done. You need to cronjob the login.php file to 24 hours. (You can use Cronjob.org)
+
