@@ -13,3 +13,8 @@ Hi, You can use this repo to search and use Ahangify.com API... 😊😉
 3) After all please open login.php in your browser to create prerequisites
 4) Okey, Done. You need to cronjob the login.php file to 24 hours. (You can use https://cron-job.org/)
 
+After All You can see example.txt to see how can you use this API
+
+**Thanks**
+This source created by Mohammad and His Channel Is 
+https://t.me/icreatebot_TM
