@@ -16,6 +16,3 @@ Hi, You can use this repo to search and use Ahangify.com API... 😊😉
 After All You can see example.txt to see how can you use this API
  
 **OutPut: JSON**<br/>
-**Thanks**<br/>
-This source created by Mohammad and His Channel Is 
-https://t.me/icreatebot_TM
